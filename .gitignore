@@ -1,3 +1,7 @@
 /target
 .env
 *.log
+
+# Release builds
+target/
+*.exe
